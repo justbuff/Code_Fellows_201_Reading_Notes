@@ -1,8 +1,8 @@
 # Reading Notes
 
-- Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
 
-## Things I want to know more about
+### Things I want to know more about
 
 ### Read 01
 Windows System Restore allows a user to revert the OS back to a previous state by saving some of the system files and the Windows registry as Restore Points. 
