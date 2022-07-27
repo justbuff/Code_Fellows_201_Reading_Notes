@@ -5,4 +5,8 @@ IT staff are vital in the operation and avalibility of technology systems. IT st
 The help desk is the first line of support for customers, as it is contacted first for assistance. Help desk professionals must have technical knowledge and the ability to troubleshoot. Good communication skills are needed to provide assistance to customers while maintaining the positive image of the company. 
 
 Hard skills are measurable skills, such as technical, security, troubleshooting, and business skills.
-Soft skills are more subjective when compared to hard skills and include communication, personal, writing, and training skills. Soft skills also include critical thinking, which encompasses actively thinking, asking, changing perspectives, and evaluating evidence or symptoms. Simple flow charts can aide IT professionals with simple problems, but critical thinking is required to solve complex problems with multiple symptoms. By using critical thinking, technicians can use their experience, form relevant questions, gather information, and determine what is relevant to the problem at hand.  
+Soft skills are more subjective when compared to hard skills and include communication, personal, writing, and training skills. Soft skills also include critical thinking, which encompasses actively thinking, asking, changing perspectives, and evaluating evidence or symptoms. Simple flow charts can aide IT professionals with simple problems, but critical thinking is required to solve complex problems with multiple symptoms. By using critical thinking, technicians can use their experience, form relevant questions, gather information, and determine what is relevant to the problem at hand. 
+
+## Things I want to know more about
+
+Ways to improve my troubleshooting and critical thinking skills.
