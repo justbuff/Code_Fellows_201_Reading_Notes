@@ -4,5 +4,4 @@
 - [Class 02 Reading Notes](class-02.md)
 - [Class 03 Reading Notes](class-03.md)
 
-## Things I want to know more about
-
+### Things I want to know more about
