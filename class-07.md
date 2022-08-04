@@ -1,4 +1,4 @@
-# OS Upgrade and Remote Access
+# Windows PowerShell
 
 PowerShell is a command-line shell interface made by Microsoft. PowerShell lets admins to manage computers from the command line. As a scripting language, PowerShell is built on .NET which can be used for automating administrative tasks and configuration management. PowerShell is an interpreted language for doing things, typically in the context of managing a technology environment.
 
