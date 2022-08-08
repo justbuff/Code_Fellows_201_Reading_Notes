@@ -4,12 +4,9 @@
 
 SSD failures are difficult to detect since they do not emit mechanical noise like HDD do and can fail silently. There are still detectable indicators of HDD failure (read/write limit or physical issues): 
 
-- Bad blocks. In an SSD, “bad blocks” are storage segments that impede data storage and retrieval functions through memory corruption or physical damage. Symptoms include saving, reading, and moving files may result in failure, active applications may operate slowly or frequently crash, the user may receive prompts to repair the file system, and general performance may steadily decrease especially when handling large files. The best course of action is to run software that searches for physical defects. If the software discovers physical damage, it's best to back up essential files and replace the SSD.
-
+- Bad blocks. In an SSD, “bad blocks” are storage segments that impede data storage and retrieval functions through memory corruption or physical damage. Symptoms include saving, reading, and moving files may result in failure, active applications may operate slowly or frequently crash, the user may receive prompts to repair the file system, and general performance may steadily decrease especially when handling large files. The best solution is to run software that searches for physical defects and if the software detects physical damage, it's best to back up essential files and replace the SSD.
 - File system repair. If a computer or file system requires repair but physical defect software shows no damage, this could indicate an issue with the connector port. Backup important files then proceed to repair the system- Windows OS use file system repair, Mac OS users can use Disk Utility, and Linux users can run the fsck utility.
-
 - Crashing. If a computer crashes while booting up but seems to work normally after several reboots, the SSD is probably failing.  Run software to assess the performance and health of your SSD or reinstall the OS after the data has been cleared on the partition set.
-
 - Read-only mode. It is possible for SSDs to cease functioning except in read-only mode. In the event that an SSD will not operate except to perform read-only functions, the drive is most likely corrupted.
 
 Fixing an SSD that is failing to perform properly depends on the source of its issues. If there is a physical problem like hardware damage or degraded flash cells, the SSD may need to be replaced. However, if the dysfunction derives from a logical error like bad blocks, software malfunctions, malware, or outdated firmware a handful of techniques may achieve SSD recovery.
