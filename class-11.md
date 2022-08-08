@@ -9,7 +9,7 @@ SSD failures are difficult to detect since they do not emit mechanical noise lik
 - Crashing. If a computer crashes while booting up but seems to work normally after several reboots, the SSD is probably failing.  Run software to assess the performance and health of your SSD or reinstall the OS after the data has been cleared on the partition set.
 - Read-only mode. It is possible for SSDs to cease functioning except in read-only mode. In the event that an SSD will not operate except to perform read-only functions, the drive is most likely corrupted.
 
-Fixing an SSD that is failing to perform properly depends on the source of its issues. If there is a physical problem like hardware damage or degraded flash cells, the SSD may need to be replaced. However, if the dysfunction derives from a logical error like bad blocks, software malfunctions, malware, or outdated firmware a handful of techniques may achieve SSD recovery.
+Fixing an SSD that is failing to perform properly depends on the source of its issues. If there is a physical problem like hardware damage or degraded flash cells, the SSD may need to be replaced. If the problem derives from a logical error like bad blocks, software malfunctions, malware, or outdated firmware a handful of techniques may achieve SSD recovery.
 
 Some recovery options include:
 
