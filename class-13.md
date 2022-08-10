@@ -1,0 +1,9 @@
+# Cloud Virtualization with AWS
+
+Virtualization refers to the creation of a virtual version of something rather than physical. The popularity of virtualization and computing goes back to 1999 and the creation of VMWAre which allowed for the first accessible computer virtulaization. Eventually virtualization would also include servers, netowrk, storage, data devices, and applications. Modern virtualization allows companies like Amazon to run different types of virtual machines of various sizes on top of their hardware. 
+
+The Amazon IaaS (Infrastructure as a Service) cloud service model is characterized by delivering virtualized computer infrastructure in the form of a service. Amazon Elastic Compute Cloud (EC2) is an example, which is an IaaS service that provides virtual servers based on the Xen hypervisor. The hypervisor acts as a virtual machine manager that sits on top of the host system where all of the customer virtual machines run. EC2 instances use storage through either Ephemeral (temporary) or Elastic Block Storage snapshots stored in Amazon S3. EC2 virtualized services can control virtualization through a web interface, as well as manage the entire system through API.
+
+Another critical part of the entire process of virtualization in Amazon EC2 is Amazon Machine Image (AMI), which is also a virtual appliance. AMI is mainly responsible for creating on-demand virtual machines within the Amazon Elastic Compute Cloud.
+
+Similar IaaS services to EC2 are public IaaS offerings such as Compute Engine from Google or Microsoft’s Azure, or on-premise products such as Eucalyptus and OpenStack.
