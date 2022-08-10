@@ -11,11 +11,7 @@ pfSense is a free, customized distribution of FreeBSD (OS) that can virtualize a
 
 ## Why Use pfSense?
 
-pfSense is fast, free, customizable, and stable. pfSense can replace an existing router that does not offer the same features or peformance.
-
-## Embedded Installation
-
-pfSense can also be installed on several embedded platforms, which are a good option for creating a small, low-powered appliance to run a network. 
+pfSense is fast, free, customizable, and stable. pfSense can replace an existing router that does not offer the same features or peformance. pfSense can also be installed on several embedded platforms, which are a good option for creating a small, low-powered appliance to run a network. 
 
 ## Getting Started with pfSense
 
