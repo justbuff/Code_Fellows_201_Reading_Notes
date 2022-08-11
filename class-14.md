@@ -1,6 +1,6 @@
 # Malware Remediation Tools and Techniques
 
-PCs with malware exhibit several signs: slower-than-usual performance, a sudden spate of pop-ups, and other anomalous issues. To remedy the presense of malware these steps should be followed:
+PCs with malware exhibit several signs: slower-than-usual performance, a sudden amount of pop-ups, and other irregular issues. To remedy the presense of malware these steps should be followed:
 
 - Enter safe mode. Disconnect PC from internet and boot into Safe Mode. In Windows 10, hold down the Shift key and click Reboot, then from the menu select Restart. On the next menu that appears choose #4 for Safe Mode. 
 - Delete temporary files. In Safe Mode run Disk Cleanup to remove temporary files. 
